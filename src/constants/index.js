@@ -1,0 +1,3 @@
+const REFRESH_TOKEN_COOKIE_NAME = "R_T";
+
+module.exports = { REFRESH_TOKEN_COOKIE_NAME };
